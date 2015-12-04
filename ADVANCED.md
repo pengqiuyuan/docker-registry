@@ -158,7 +158,7 @@ Alternatively, you may clone the github repository and run `pip install .`
 Install the required dependencies:
 
 ```
-sudo yum install python-devel libevent-devel python-pip gcc xz-devel
+sudo yum install python-devel libevent-devel python-pip gcc xz-devel openssl-devel.x86_64
 ```
 
 NOTE: On RHEL and CentOS you will need the
